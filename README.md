@@ -51,10 +51,10 @@ embedders at every stage.
 ## Screenshots
 
 **Full pipeline output:**
-![Full pipeline](screenshots/full_pipeline.png)
+<img width="721" height="458" alt="screenshots:full_pipeline" src="https://github.com/user-attachments/assets/332a21c9-1b6e-4983-8c0d-2ff90bd234b0" />
 
 **WER comparison:**
-![WER](screenshots/wer_comparison.png)
+<img width="623" height="173" alt="screenshots:wer_comparison" src="https://github.com/user-attachments/assets/39073c80-2081-47e4-b093-7f1505c722f8" />
 
 ---
 
