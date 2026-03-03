@@ -4,7 +4,7 @@ Hindi Voice ASR + RAG + TTS
 
 **Pipeline:** Hindi speech → Whisper ASR → FAISS retrieval → gTTS spoken response
 
-📹 Demo video: [YOUR LOOM LINK HERE]
+📹 Demo video: (https://www.loom.com/share/9a50eb9c09cf47d8947bfb2cc6910e82)
 
 ---
 
@@ -68,15 +68,4 @@ embedders at every stage.
 
 ---
 
-*Built by Vedant · Prayagraj/Varanasi, UP · March 2026*
-```
-
-4. Click **Commit changes**
-
----
-
-### Step 5 — Copy your repo link
-
-Your repo URL will be:
-```
-https://github.com/YOUR_USERNAME/hindi-voice-rag-demo
+*Built by Vedant · March 2026*
