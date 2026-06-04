@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+piper_voices/
+response.wav
+*.wav
+*.mp3

@@ -1,0 +1,13 @@
+faster-whisper
+sentence-transformers
+faiss-cpu
+gtts
+gradio==4.44.1
+fastapi<0.113.0
+numpy
+transformers
+bitsandbytes
+accelerate
+piper-tts
+sentencepiece
+protobuf
